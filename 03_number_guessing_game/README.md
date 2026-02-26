@@ -26,18 +26,6 @@ The program allows the user to choose which mode to play at runtime.
 - `random` module
 
 ---
-
-## ▶️ How to Run
-
-1. Make sure Python is installed on your system.
-2. Navigate to the project folder.
-3. Run the program from the terminal:
-
-```bash
-python main.py
-
----
-
 ## 📚 What I Learned from This Project Series
 
 - **Variables and Data Types**  
@@ -78,4 +66,16 @@ I have improved my ability to:
 - Think like a programmer  
 - Translate ideas into working code  
 - Build confidence in solving problems independently  
+
+## ▶️ How to Run
+
+1. Make sure Python is installed on your system.
+2. Navigate to the project folder.
+3. Run the program from the terminal:
+
+```bash
+python main.py
+
+---
+ 
 
